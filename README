@@ -1,0 +1,7 @@
+This project is my first attempt at compiling an Android kernel.
+
+The goal of this project is to start with a ready made CM7.x kernel by Alquez and add linux swap partition support to it.
+
+As I am still learning any help would be greatly appreciated.
+
+d33ps1x.
